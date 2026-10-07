@@ -1,0 +1,2 @@
+-- Configure pooling in Node.js, not SQL.
+-- Suggested starting values: max=20, idleTimeoutMillis=30000, connectionTimeoutMillis=2000.
